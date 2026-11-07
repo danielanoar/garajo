@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "2026-11-zbe-multas-obligatorias",
+      "date": "2026-11-07",
+      "icon": "building.2.fill",
+      "title": "Se acaban los avisos sin multa en las zonas de bajas emisiones",
+      "summary": "El Gobierno ha aprobado que los ayuntamientos tengan que sancionar, sin moratorias ni fases informativas.",
+      "paragraphs": [
+        "El Consejo de Ministros aprobó el 3 de noviembre una reforma de la norma que regula las zonas de bajas emisiones. El cambio ataca un problema muy concreto: muchas ciudades tenían la zona creada, pero se limitaban a avisar al conductor sin cobrarle nada.",
+        "La reforma obliga a aplicar las sanciones sin moratorias ni periodos transitorios. Afecta a los 151 ayuntamientos que tienen obligación de contar con una de estas zonas. Según los datos publicados, solo 68 la tienen en marcha, y al menos la mitad sigue en periodo de carencia o fase informativa.",
+        "Entrar sin el distintivo permitido es una infracción grave de 200 euros, que se quedan en 100 con pronto pago, y no quita puntos. La multa suele llegar por lectura automática de la matrícula, así que puedes no enterarte hasta que llega la carta.",
+        "Al publicar esta pieza todavía no se conocía el plazo que tendrán los ayuntamientos para adaptar sus ordenanzas."
+      ],
+      "takeaway": "Si conduces por una ciudad que hasta ahora solo avisaba, no des por hecho que seguirá así. Comprueba qué etiqueta tiene tu coche y consulta las normas de los ayuntamientos por los que pasas: quién entra y desde cuándo lo decide cada uno.",
+      "sources": [
+        { "name": "Carwow: el Gobierno obliga a multar en las ZBE", "url": "https://www.carwow.es/noticias/8530/zbe-multas-obligatorias-gobierno-ayuntamientos-sin-moratorias" }
+      ]
+    },
+    {
+      "id": "2026-11-baliza-v16",
+      "date": "2026-11-07",
+      "icon": "exclamationmark.triangle.fill",
+      "title": "Baliza V16: los triángulos ya no te sirven",
+      "summary": "Desde enero solo vale la baliza conectada y homologada. Lo que conviene comprobar antes de necesitarla.",
+      "paragraphs": [
+        "Desde el 1 de enero de 2026, la baliza V16 conectada a la plataforma de la DGT sustituye a los triángulos. Una baliza antigua sin conexión tampoco vale, y anunciarse como conectada no significa estar homologada.",
+        "La idea es sencilla: no tener que bajarte en mitad de la carretera. Según el Gobierno, colocar los triángulos causaba unas 25 muertes al año por atropello. Ahora enciendes la baliza, la pones en el techo desde dentro y activas las luces de emergencia. Si no es seguro salir, los ocupantes se quedan dentro con el cinturón abrochado.",
+        "No llevarla, o llevar una que no cumple, es una infracción leve de hasta 80 euros, 40 con pronto pago, sin pérdida de puntos. Puedes seguir usando los triángulos como complemento, pero no como única señalización."
+      ],
+      "takeaway": "Hoy mismo, dos minutos: mira si tu baliza aparece en el listado de la DGT y ten en cuenta que debe durar en reposo al menos 18 meses. Guárdala donde llegues sin soltarte el cinturón. En la guantera ayuda más que en el maletero.",
+      "sources": [
+        { "name": "La Moncloa: nota del Ministerio del Interior", "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/Paginas/2025/251125-obligacion-baliza-v16-carretera.aspx" },
+        { "name": "RACE: multas por no llevar la baliza", "url": "https://www.race.es/multas-por-no-llevar-baliza-v16" }
+      ]
+    },
+    {
+      "id": "2026-11-itv-zbe",
+      "date": "2026-11-07",
+      "icon": "checkmark.seal.fill",
+      "title": "La etiqueta puede no bastar: las ciudades ya miran también la ITV",
+      "summary": "El modelo de ordenanza de los municipios pide la ITV en vigor para entrar en las zonas de bajas emisiones.",
+      "paragraphs": [
+        "La Federación Española de Municipios y Provincias ha publicado una ordenanza tipo para las zonas de bajas emisiones que dice que los vehículos que accedan deben tener pasada la ITV. Es un modelo que cada ayuntamiento decide cómo aplica, no una norma igual para toda España.",
+        "El motivo que dan las estaciones de ITV es que la etiqueta se asigna con el coche nuevo y no dice nada de cómo está hoy. Conviene recordar que son parte interesada, pero el cambio de criterio es real: con un cruce de datos, un ayuntamiento puede detectar una ITV caducada igual que detecta una etiqueta.",
+        "Hay una excepción práctica. La DGT ha recomendado dejar entrar a los coches sin etiqueta cuando van a pasar la ITV. Madrid lo aplica desde mayo de 2025 para las estaciones que están dentro de sus zonas."
+      ],
+      "takeaway": "Tener la ITV al día ya no solo evita una multa en carretera: puede ser lo que te deje entrar en tu ciudad. Si tu coche no tiene etiqueta y debes ir a una estación dentro de una zona, pregunta antes cómo lo gestiona tu ayuntamiento.",
+      "sources": [
+        { "name": "AECA-ITV: nota de prensa sobre la ordenanza tipo", "url": "https://www.aeca-itv.com/wp-content/uploads/2026/02/2026_02_18-NP-ZBE-ITV-y-FEMP-ok.pdf" },
+        { "name": "Carwow: la ITV para acceder a las ciudades", "url": "https://www.carwow.es/noticias/6989/itv-obligatoria-zbe-acceso-ciudades" }
+      ]
+    },
+    {
+      "id": "2026-11-cadenas-invierno",
+      "date": "2026-11-07",
+      "icon": "snowflake",
+      "title": "Cadenas o neumáticos de invierno: qué te pueden exigir de verdad",
+      "summary": "No hay que llevarlas siempre en el maletero. Importa cuándo la nieve obliga, y qué marca lleva tu neumático.",
+      "paragraphs": [
+        "Llega el frío y vuelve la duda. No es obligatorio llevar cadenas por defecto: la multa es por no usarlas cuando hacen falta, no por no llevarlas guardadas.",
+        "Todo depende del nivel de la carretera. En verde y amarillo no se exigen. En rojo necesitas cadenas o neumáticos de invierno, sin pasar de 30 km/h. En negro no se puede circular. Un agente o una señal también pueden exigirlas. La sanción es de 200 euros, 100 con pronto pago, sin perder puntos, y además no podrás seguir.",
+        "Los neumáticos de invierno sirven de alternativa si son los cuatro. El marcaje es el punto delicado: las fuentes consultadas hablan del M+S, preferiblemente con el símbolo de la montaña con copo de nieve, conocido como 3PMSF. Otras publicaciones recientes sostienen que el M+S por sí solo ya no basta, y no hemos podido confirmarlo en un texto oficial."
+      ],
+      "takeaway": "Si vas a comprar neumáticos para la nieve, elige los que llevan el símbolo de la montaña con copo: así evitas la duda. Y si vas a zona de nieve con cadenas, pruébalas en casa una vez. En el arcén y con frío es mal momento para aprender.",
+      "sources": [
+        { "name": "Motor16: neumáticos de invierno como alternativa", "url": "https://www.motor16.com/las-ultimas-noticias/neumaticos-invierno-nieve/2/" },
+        { "name": "Diariomotor: multa por no usar cadenas (2023)", "url": "https://www.diariomotor.com/noticia/multa-por-no-llevar-cadenas-nieve-o-por-no-usar/" }
+      ]
+    },
+    {
+      "id": "2026-11-neumaticos-16",
+      "date": "2026-11-07",
+      "icon": "circle.dashed",
+      "title": "1,6 milímetros: el límite legal no es el momento de cambiar",
+      "summary": "Con las primeras lluvias conviene mirar el dibujo. Cómo comprobarlo y qué te juegas.",
+      "paragraphs": [
+        "El mínimo legal para un turismo son 1,6 milímetros de dibujo, y la ITV lo mide en varios puntos de la banda, no solo en el centro. Un neumático gastado por un lado puede suspender aunque el centro parezca bien.",
+        "Comprobarlo es fácil. En el fondo de las ranuras hay unos resaltes de goma, los testigos de desgaste. Si quedan a ras del dibujo, has llegado al límite.",
+        "Circular por debajo es una infracción grave de hasta 200 euros, 100 con pronto pago, y el agente puede inmovilizar el coche. En la ITV es un defecto grave. Aun así, lo que debería preocuparte es otra cosa: cerca del mínimo aumentan el riesgo de aquaplaning y la distancia de frenado."
+      ],
+      "takeaway": "Fabricantes y expertos recomiendan cambiarlos antes de llegar a 2 milímetros. Mira las cuatro ruedas por dentro y por fuera, y si el desgaste es desigual, pide que revisen la alineación. Cuando los cambies, apúntalo en Garajo con los kilómetros para saber cuánto te han durado.",
+      "sources": [
+        { "name": "Motor16: profundidad del dibujo, multa e ITV", "url": "https://www.motor16.com/mantenimiento/profundidad-dibujo-neumaticos-itv-multa/" }
+      ]
+    },
+    {
+      "id": "2026-11-llamadas-revision",
+      "date": "2026-11-07",
+      "icon": "wrench.and.screwdriver.fill",
+      "title": "Cómo saber si tu coche tiene una llamada a revisión pendiente",
+      "summary": "Se comprueba en la DGT, y puedes tener una aunque nunca te haya llegado la carta.",
+      "paragraphs": [
+        "Cuando un fabricante detecta un defecto, te localiza a través de los datos de la DGT y te avisa por carta. El problema es que si cambiaste de domicilio y no lo actualizaste, esa carta no te llega. Y si compraste el coche de segunda mano, puede haberse quedado sin atender.",
+        "La DGT permite consultarlo por internet, en la app miDGT o de forma presencial. Hay que identificarse con certificado digital o Cl@ve. Si el coche está a tu nombre, verás los avisos pendientes y podrás descargar la carta del fabricante con el defecto y la solución. Las ya resueltas no aparecen.",
+        "Según el RACE, la reparación corre a cargo de la marca, incluso si el coche ya no tiene garantía. Si te quieren cobrar, pide que te lo justifiquen por escrito."
+      ],
+      "takeaway": "Merece la pena hacerlo una vez con cada coche, y siempre antes de comprar uno de segunda mano. Aprovecha para comprobar que tu dirección en la DGT está al día. Cuando pases por el taller oficial, guarda la factura en Garajo aunque no hayas pagado nada.",
+      "sources": [
+        { "name": "DGT: llamadas a revisión de un vehículo", "url": "https://www.dgt.es/nuestros-servicios/tu-vehiculo/tus-vehiculos/llamadas-a-revision-de-un-vehiculo/" },
+        { "name": "RACE: coche con defecto de fábrica", "url": "https://www.race.es/coche-defecto-fabrica" }
+      ]
+    }
+  ]
+}
