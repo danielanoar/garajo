@@ -11,11 +11,18 @@
         "El Consejo de Ministros aprobó el 3 de noviembre una reforma de la norma que regula las zonas de bajas emisiones. El cambio ataca un problema muy concreto: muchas ciudades tenían la zona creada, pero se limitaban a avisar al conductor sin cobrarle nada.",
         "La reforma obliga a aplicar las sanciones sin moratorias ni periodos transitorios. Afecta a los 151 ayuntamientos que tienen obligación de contar con una de estas zonas. Según los datos publicados, solo 68 la tienen en marcha, y al menos la mitad sigue en periodo de carencia o fase informativa.",
         "Entrar sin el distintivo permitido es una infracción grave de 200 euros, que se quedan en 100 con pronto pago, y no quita puntos. La multa suele llegar por lectura automática de la matrícula, así que puedes no enterarte hasta que llega la carta.",
-        "Al publicar esta pieza todavía no se conocía el plazo que tendrán los ayuntamientos para adaptar sus ordenanzas."
+        "La reforma es el Real Decreto 953/2026, publicado en el BOE el 6 de noviembre, y entra en vigor el 26 de noviembre. Desde entonces, una zona no cuenta como bien implantada si el ayuntamiento no demuestra que aplica las sanciones, sin periodos de solo avisos."
       ],
       "takeaway": "Si conduces por una ciudad que hasta ahora solo avisaba, no des por hecho que seguirá así. Comprueba qué etiqueta tiene tu coche y consulta las normas de los ayuntamientos por los que pasas: quién entra y desde cuándo lo decide cada uno.",
       "sources": [
-        { "name": "Carwow: el Gobierno obliga a multar en las ZBE", "url": "https://www.carwow.es/noticias/8530/zbe-multas-obligatorias-gobierno-ayuntamientos-sin-moratorias" }
+        {
+          "name": "BOE: Real Decreto 953/2026",
+          "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-23268"
+        },
+        {
+          "name": "Carwow: el Gobierno obliga a multar en las ZBE",
+          "url": "https://www.carwow.es/noticias/8530/zbe-multas-obligatorias-gobierno-ayuntamientos-sin-moratorias"
+        }
       ]
     },
     {
@@ -31,8 +38,14 @@
       ],
       "takeaway": "Hoy mismo, dos minutos: mira si tu baliza aparece en el listado de la DGT y ten en cuenta que debe durar en reposo al menos 18 meses. Guárdala donde llegues sin soltarte el cinturón. En la guantera ayuda más que en el maletero.",
       "sources": [
-        { "name": "La Moncloa: nota del Ministerio del Interior", "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/Paginas/2025/251125-obligacion-baliza-v16-carretera.aspx" },
-        { "name": "RACE: multas por no llevar la baliza", "url": "https://www.race.es/multas-por-no-llevar-baliza-v16" }
+        {
+          "name": "La Moncloa: nota del Ministerio del Interior",
+          "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/interior/Paginas/2025/251125-obligacion-baliza-v16-carretera.aspx"
+        },
+        {
+          "name": "RACE: multas por no llevar la baliza",
+          "url": "https://www.race.es/multas-por-no-llevar-baliza-v16"
+        }
       ]
     },
     {
@@ -48,8 +61,14 @@
       ],
       "takeaway": "Tener la ITV al día ya no solo evita una multa en carretera: puede ser lo que te deje entrar en tu ciudad. Si tu coche no tiene etiqueta y debes ir a una estación dentro de una zona, pregunta antes cómo lo gestiona tu ayuntamiento.",
       "sources": [
-        { "name": "AECA-ITV: nota de prensa sobre la ordenanza tipo", "url": "https://www.aeca-itv.com/wp-content/uploads/2026/02/2026_02_18-NP-ZBE-ITV-y-FEMP-ok.pdf" },
-        { "name": "Carwow: la ITV para acceder a las ciudades", "url": "https://www.carwow.es/noticias/6989/itv-obligatoria-zbe-acceso-ciudades" }
+        {
+          "name": "AECA-ITV: nota de prensa sobre la ordenanza tipo",
+          "url": "https://www.aeca-itv.com/wp-content/uploads/2026/02/2026_02_18-NP-ZBE-ITV-y-FEMP-ok.pdf"
+        },
+        {
+          "name": "Carwow: la ITV para acceder a las ciudades",
+          "url": "https://www.carwow.es/noticias/6989/itv-obligatoria-zbe-acceso-ciudades"
+        }
       ]
     },
     {
@@ -65,8 +84,14 @@
       ],
       "takeaway": "Si vas a comprar neumáticos para la nieve, elige los que llevan el símbolo de la montaña con copo: así evitas la duda. Y si vas a zona de nieve con cadenas, pruébalas en casa una vez. En el arcén y con frío es mal momento para aprender.",
       "sources": [
-        { "name": "Motor16: neumáticos de invierno como alternativa", "url": "https://www.motor16.com/las-ultimas-noticias/neumaticos-invierno-nieve/2/" },
-        { "name": "Diariomotor: multa por no usar cadenas (2023)", "url": "https://www.diariomotor.com/noticia/multa-por-no-llevar-cadenas-nieve-o-por-no-usar/" }
+        {
+          "name": "Motor16: neumáticos de invierno como alternativa",
+          "url": "https://www.motor16.com/las-ultimas-noticias/neumaticos-invierno-nieve/2/"
+        },
+        {
+          "name": "Diariomotor: multa por no usar cadenas (2023)",
+          "url": "https://www.diariomotor.com/noticia/multa-por-no-llevar-cadenas-nieve-o-por-no-usar/"
+        }
       ]
     },
     {
@@ -82,7 +107,10 @@
       ],
       "takeaway": "Fabricantes y expertos recomiendan cambiarlos antes de llegar a 2 milímetros. Mira las cuatro ruedas por dentro y por fuera, y si el desgaste es desigual, pide que revisen la alineación. Cuando los cambies, apúntalo en Garajo con los kilómetros para saber cuánto te han durado.",
       "sources": [
-        { "name": "Motor16: profundidad del dibujo, multa e ITV", "url": "https://www.motor16.com/mantenimiento/profundidad-dibujo-neumaticos-itv-multa/" }
+        {
+          "name": "Motor16: profundidad del dibujo, multa e ITV",
+          "url": "https://www.motor16.com/mantenimiento/profundidad-dibujo-neumaticos-itv-multa/"
+        }
       ]
     },
     {
@@ -98,8 +126,14 @@
       ],
       "takeaway": "Merece la pena hacerlo una vez con cada coche, y siempre antes de comprar uno de segunda mano. Aprovecha para comprobar que tu dirección en la DGT está al día. Cuando pases por el taller oficial, guarda la factura en Garajo aunque no hayas pagado nada.",
       "sources": [
-        { "name": "DGT: llamadas a revisión de un vehículo", "url": "https://www.dgt.es/nuestros-servicios/tu-vehiculo/tus-vehiculos/llamadas-a-revision-de-un-vehiculo/" },
-        { "name": "RACE: coche con defecto de fábrica", "url": "https://www.race.es/coche-defecto-fabrica" }
+        {
+          "name": "DGT: llamadas a revisión de un vehículo",
+          "url": "https://www.dgt.es/nuestros-servicios/tu-vehiculo/tus-vehiculos/llamadas-a-revision-de-un-vehiculo/"
+        },
+        {
+          "name": "RACE: coche con defecto de fábrica",
+          "url": "https://www.race.es/coche-defecto-fabrica"
+        }
       ]
     }
   ]
